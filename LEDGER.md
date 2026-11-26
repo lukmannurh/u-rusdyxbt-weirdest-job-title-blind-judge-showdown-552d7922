@@ -104,3 +104,11 @@ generic oddity or word salad. Short (36 chars) and instantly readable.
   non-whitespace — PASS; UTF-8 round-trip — PASS.
 - Status: revised and locally tested. NOT committed, pushed, bundled, or
   submitted (parent handles that).
+
+## Submission
+
+- Submission: 01a215f1-8096-75e7-bd35-d3579d018c9f
+- Commit: a69ea9648e354a02b06952354131c88e6edf25dc
+- Repo: https://github.com/lukmannurh/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922
+- Claim code: AF-JKMW9-9D0V1-YWR9X-WA08D
+- Submitted: 2026-11-26T03:41:36.043Z (parent pipeline)
